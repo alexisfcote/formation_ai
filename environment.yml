@@ -12,6 +12,7 @@ dependencies:
   - cpuonly
   - torchvision
   - scikit-learn
+  - python-graphviz
   - pip:
     - tqdm
     - Pillow
