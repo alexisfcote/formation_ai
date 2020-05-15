@@ -17,3 +17,5 @@ dependencies:
     - Pillow
     - celluloid 
     - pydotplus
+    - seaborn
+    - nltk
